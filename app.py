@@ -13,12 +13,12 @@ def home():
 	return f"""
 	<html>
 		<head>
-			<title>AWS Containerized Web Application with Tili</title>
+			<title>AWS Containerized Web Application</title>
 		</head>
 		<body>
-			<h1>AWS Containerized Web Application</h1>
+			<h1>AWS Containerized Web Application with Tili</h1>
 
-			<p>Hello from a container!</p>
+			<p>Hello from a container!!!</p>
 
 			<p><strong>Hostname:</strong> {hostname}</p>
 			<p><strong>Environment:</strong> {environment}</p>
