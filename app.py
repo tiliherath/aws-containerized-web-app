@@ -18,7 +18,7 @@ def home():
 		<body>
 			<h1>AWS Containerized Web Application with Tili</h1>
 
-			<p>Hello from a container!!!</p>
+			<p>Welcome to Tilispace! Hello from a container!!!</p>
 
 			<p><strong>Hostname:</strong> {hostname}</p>
 			<p><strong>Environment:</strong> {environment}</p>
