@@ -13,7 +13,7 @@ def home():
 	return f"""
 	<html>
 		<head>
-			<title>AWS Containerized Web Application</title>
+			<title>AWS Containerized Web Application with Tili</title>
 		</head>
 		<body>
 			<h1>AWS Containerized Web Application</h1>
